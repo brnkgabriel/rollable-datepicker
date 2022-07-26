@@ -1,0 +1,10 @@
+{
+  "name": "rollable-datepicker",
+  "version": "1.0.0",
+  "description": "iOS style rollable date selector",
+  "main": "index.js",
+  "repository": "https://github.com/brnkgabriel/rollable-datepicker",
+  "author": "brnkgabriel <brnkgabriel@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
